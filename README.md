@@ -5,6 +5,8 @@
 
 <p align="center"><a href=https://leetcode.com/>🤖 Leet Code 🤖</a></p>
 
+<p align="center"><a href=https://leetcode.com/Katta_007/>📜 LeetCode Profile 📜</a></p>
+
 <p align="center"><a href=https://leetcode.com/points/>Point Activity 📈</a></p>
 
 <p align="center"><a href=https://leetcode.com/submissions/#/1>All my Leet Code Submission 🗸 Details 📝</a></p>
